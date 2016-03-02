@@ -18,7 +18,7 @@
   "configs": {
     "name": {
       "type": "string",
-      "default": "wei-dslink-java"
+      "default": "simulator"
     },
     "broker": {
       "type": "url"
